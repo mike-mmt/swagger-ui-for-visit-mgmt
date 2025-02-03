@@ -6,8 +6,8 @@
   },
   "servers": [
     {
-      "url": "http://159.69.192.136:8880",
-      "description": "Visit mgmt"
+      "url": "https://159.69.192.136:8843",
+      "description": "Visit management"
     }
   ],
   "paths": {
